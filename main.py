@@ -8,6 +8,7 @@ def main():
     time = float(input("Please enter the amount of time you have for exercise in minutes: "))
     exercise_suggestions(height, weight, time)
 
+
 if __name__ == "__main__":
     main()
 
